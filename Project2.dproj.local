@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\Dell\Desktop\IT prac\Xsomething.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\Dell\Desktop\IT 2019\login.pas=C:\Users\Dell\Desktop\IT 2019\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\Dell\Desktop\IT prac\Xsomething.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\Dell\Desktop\IT 2019\login.dfm=C:\Users\Dell\Desktop\IT 2019\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
